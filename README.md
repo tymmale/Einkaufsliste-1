@@ -1,6 +1,7 @@
-#Max
+# Max
 
-##Auszeichnungen
+## Auszeichnungen
 
->'Person of the century' - **Times Magazin**
->'Hes ***okay***' - **Mom** 
+> 'Person of the century' - **Times Magazin**
+> 
+> 'Hes ***okay***' - **Mom** 
