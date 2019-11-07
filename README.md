@@ -4,4 +4,6 @@
 
 > 'Person of the century' - **Times Magazin**
 > 
-> 'Hes ***okay***' - **Mom** 
+> 'Hes ***okay***' - **Mom**
+
+#Alles Gelogen.
